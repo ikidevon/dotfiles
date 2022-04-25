@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jdcolas888@gmail.com
+	name = jean davidson colas
